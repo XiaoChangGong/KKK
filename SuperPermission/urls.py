@@ -24,5 +24,5 @@ urlpatterns = [
     #git commit -m "创建的第一个版本"
     ###KKK
 >>>>>>> Stashed changes
-###123
+
 ]
