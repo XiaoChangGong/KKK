@@ -18,16 +18,5 @@ from django.contrib import admin
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-<<<<<<< Updated upstream
-    
-=======
-    #git commit -m "创建的第一个版本"
-    ###KKK
->>>>>>> Stashed changes
-<<<<<<< Updated upstream
-
-=======
-###123
-###456
->>>>>>> Stashed changes
+    url(r'^admin·12/', admin.site.urls),
 ]
